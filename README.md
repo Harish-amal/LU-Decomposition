@@ -21,6 +21,8 @@ Get lists from input and assign in np.array()
 
 Step3: 
 
+Using lu_factor() and lu_solve(),We can find the solutions
+
 Step4: 
 
 print and End the program
@@ -38,6 +40,7 @@ Step3:
 Step4:
 
 print and End the program
+
 ## Program:
 (i) To find the L and U matrix
 import os
