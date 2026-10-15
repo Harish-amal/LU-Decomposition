@@ -16,6 +16,7 @@ Import the numpy module to use the built-in functions for calculation
 
 Step2: 
 
+
 Get lists from input and assign in np.array()
 
 Step3: 
