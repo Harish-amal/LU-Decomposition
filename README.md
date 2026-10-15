@@ -21,7 +21,7 @@ Get lists from input and assign in np.array()
 
 Step3: 
 
-Using lu_factor() and lu_solve(),We can find the solutions
+
 
 Step4: 
 
@@ -35,7 +35,11 @@ Import the numpy module to use the built-in functions for calculation
 
 Step2:
 
+Get lists from input and assign in np.array()
+
 Step3:
+
+Using lu_factor() and lu_solve(),We can find the solutions
 
 Step4:
 
