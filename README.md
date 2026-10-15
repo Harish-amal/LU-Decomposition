@@ -83,8 +83,10 @@ x=lu_solve((l,p),b)
 print(x)
 
 ## Output:
+5a)
 
-
+5b)
+<img width="1221" height="797" alt="image" src="https://github.com/user-attachments/assets/965f92d6-ae25-4202-9dfd-32d58253c644" />
 
 ## Result:
 Thus the program to find the LU Decomposition of a matrix is written and verified using python programming.
