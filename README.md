@@ -85,7 +85,10 @@ print(x)
 ## Output:
 5a)
 
+<img width="1235" height="845" alt="Screenshot 2026-10-15 212407" src="https://github.com/user-attachments/assets/8c647da8-e4cd-4831-a31f-6c0ae6d24737" />
+
 5b)
+
 <img width="1221" height="797" alt="image" src="https://github.com/user-attachments/assets/965f92d6-ae25-4202-9dfd-32d58253c644" />
 
 ## Result:
