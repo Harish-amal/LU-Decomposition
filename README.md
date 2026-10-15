@@ -31,11 +31,11 @@ Step1:
 
 Import the numpy module to use the built-in functions for calculation
 
-#Step2:
+Step2:
 
-#Step3:
+Step3:
 
-#Step4:
+Step4:
 
 print and End the program
 ## Program:
