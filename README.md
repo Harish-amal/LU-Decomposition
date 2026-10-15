@@ -21,7 +21,7 @@ Get lists from input and assign in np.array()
 
 Step3: 
 
-
+Using the lu(),We can find the solution
 
 Step4: 
 
